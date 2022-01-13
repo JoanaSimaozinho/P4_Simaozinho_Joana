@@ -291,6 +291,10 @@ a:hover {
   z-index: 1;
 }
 
+.font__size {
+  font-size: large;
+}
+
 .navbar-brand {
   height: auto;
   padding: 3px 15px;
@@ -677,10 +681,6 @@ a {
   margin: auto auto auto auto;
 }
 
-p {
-  font-size: 11px;
-}
-
 .tight-width-whitespace {
   max-width: 600px;
   margin: auto auto auto auto;
@@ -776,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #fff !important;
 }
 
 .btn-atomic-tangerine {
