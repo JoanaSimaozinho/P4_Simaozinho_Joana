@@ -1029,6 +1029,23 @@ h4 {
   }
 }
 
+.containerPage2 {
+  display: flex;
+}
+
+.input {
+  width: 100%;
+}
+
+.flexColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+.label {
+  padding-bottom: 5px;
+}
+
 @media (max-width: 400px) {
   .bloc {
     padding-left: 0;
